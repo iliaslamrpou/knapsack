@@ -16,9 +16,9 @@ All of these files has to be to the same folder
 
 Other folders:
 generator folder: 
-    knapsack_gen.c      : Contains the code the knapsack generator
-    knapsackFilesCreator: This utils calls the knapsack generator to create 320 probles files
-    oneClickCreator     : MsDos batch file that call the knapsackFilesCreator
+    knapsack_gen.c      : Contains the code the knapsack generator (C++ code)
+    knapsackFilesCreator: This utils calls the knapsack generator to create 320 probles files (C++ code)
+    oneClickCreator     : MsDos batch file that call the knapsackFilesCreator (C++ code)
 
 //===================================
 Required hardware and software:
