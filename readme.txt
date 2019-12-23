@@ -1,25 +1,36 @@
+Instructions:
+1. Download this repository
+2. Run the file Knapsack.exe
+3. On the menu select the option 8:Create all knapsack problems (320 files)
+   This selection will create the folder knapsack_problems with 320 knapsack problems files  that can be solved using the Knapsack.exe
+4. On the menu select the algorithm with which you want to solve all problems or one of then   
+   You can create a CSV files with the solutions of all problems for each algorithm separately or for all algorithms     
 
-1. ==================================
-Τα παρακάτω αρχεία πρέπει να είναι στον ίδιο φάκελο
-knapsack_gen.exe
-or_tools_dynamic.exe 
-or_tools_integer
-Knapsack.exe
+==================================
+Knapsack.exe          This the main solver with many features
+or_tools_dynamic.exe  Util that used by the main file to solve a problem using the OR-Tools Dynamic algorithm
+or_tools_integer.exe  Util that used by the main file to solve a problem using the OR-Tools Integer algorithm
+knapsack_gen.exe      Util that used by the main file to create a knapsack problem
 
-2. ==================================
-Τρέχουμε το αρχείο Knapsack.exe
-Στο μενού επιλέγουμε το 8 για να δημιουργήσουμε τα απαραίτητα για την εργασία αρχεία knapsack
-Θα δημιουργηθεί ο φάκελλος knapsack_problems ο οποίος θα περιέχει τα αρχεία
+All of these files has to be to the same folder
 
-3. ==================================
-Στη συνέχεια μπορούμε να επιλέξουμε από το μενού τη δημιουργία αρχείων csv 
-
+Other folders:
+generator folder: 
+    knapsack_gen.c      : Contains the code the knapsack generator
+    knapsackFilesCreator: This utils calls the knapsack generator to create 320 probles files
+    oneClickCreator     : MsDos batch file that call the knapsackFilesCreator
 
 //===================================
-Απαιτήσεις συστήματος:
+Required hardware and software:
 CPU: 64bit
 Windows 64bit
 Ram: 10Gb
+
+//===================================
+Licence: This code is created by Ilias Lamprou
+You can use it for educational use
+For commercial use you have get the permission of the owner
+
 
 
 
