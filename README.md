@@ -3,14 +3,14 @@
 This repository contains C++ code about the knapsack 0-1 problem <br/>
 The generator folder contains two very helpful tools to create one knapsack 0-1 problem or a pack of problems<br/>
 The problems can solved using 6 algorithms: <br/>
-```
-1. **Greedy approach**<br/>
-2. **Brute force**<br/>
-3. **Branch and bound**<br/>
-4. **Dynamic programming**<br/>
-5. **Dynamic OR-Tools solver**<br/>
-6. **Integer OR-Tools solver**<br/>
-```
+
+- **Greedy approach**<br/>
+- **Brute force**<br/>
+- **Branch and bound**<br/>
+- **Dynamic programming**<br/>
+- **Dynamic OR-Tools solver**<br/>
+- **Integer OR-Tools solver**<br/>
+
 The solution of each problem is stored in a file<br/>
 The solution of pack of problem is stored in a CSV file for generating statistics<br/>
 
@@ -43,5 +43,7 @@ Ram: 10Gb<br/>
 ## Licence: This code is created by Ilias Lamprou
 You can use it for educational use<br/>
 For commercial use you have get the permission of the owner<br/>
+
+` Dec 30 2019
 
 
