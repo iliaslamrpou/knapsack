@@ -38,7 +38,7 @@ generator folder: <br/>
 ## Required hardware and software:
 CPU: 64bit<br/>
 Windows 64bit<br/>
-Ram: 10Gb<br/>
+Ram: 4Gb<br/>
 
 ## Licence: This code is created by Ilias Lamprou
 You can use it for educational use<br/>
