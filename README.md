@@ -14,6 +14,7 @@ The problems can solved using 6 algorithms: <br/>
 The solution of each problem is stored in a file<br/>
 The solution of pack of problem is stored in a CSV file for generating statistics<br/>
 
+Web Page: (https://iliaslamrpou.github.io/knapsack)
 ## Instructions:
 1. Download this repository
 2. Run the file Knapsack.exe
