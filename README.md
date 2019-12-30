@@ -3,12 +3,12 @@
 This repository contains C++ code about the knapsack 0-1 problem
 The generator folder contains two very helpful tools to create one knapsack 0-1 problem or a pack of problems
 The problems can solved using 6 algorithms:
-   Greedy approach
-   Brute force
-   Branch and bound
-   Dynamic programming
-   Dynamic OR-Tools solver
-   Integer OR-Tools solver
+   a. Greedy approach
+   b. Brute force
+   c. Branch and bound
+   d. Dynamic programming
+   e. Dynamic OR-Tools solver
+   f. Integer OR-Tools solver
 The solution of each problem is stored in a file
 The solution of pack of problem is stored in a CSV file for generating statistics
 
