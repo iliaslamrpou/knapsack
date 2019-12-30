@@ -1,16 +1,16 @@
 
 # Knapsack Solver
-This repository contains C++ code about the knapsack 0-1 problem.
-The generator folder contains two very helpful tools to create one knapsack 0-1 problem or a pack of problems.
-The problems can solved using 6 algorithms.
-   a. Greedy approach.
-   b. Brute force.
-   c. Branch and bound.
-   d. Dynamic programming.
-   e. Dynamic OR-Tools solver.
-   f. Integer OR-Tools solver.
-The solution of each problem is stored in a file.
-The solution of pack of problem is stored in a CSV file for generating statistics.
+This repository contains C++ code about the knapsack 0-1 problem <br/>
+The generator folder contains two very helpful tools to create one knapsack 0-1 problem or a pack of problems<br/>
+The problems can solved using 6 algorithms: <br/>
+   a. Greedy approach<br/>
+   b. Brute force<br/>
+   c. Branch and bound<br/>
+   d. Dynamic programming<br/>
+   e. Dynamic OR-Tools solver<br/>
+   f. Integer OR-Tools solver<br/>
+The solution of each problem is stored in a file<br/>
+The solution of pack of problem is stored in a CSV file for generating statistics<br/>
 
 ## Instructions:
 1. Download this repository
