@@ -22,18 +22,18 @@ The solution of pack of problem is stored in a CSV file for generating statistic
 4. On the menu select the algorithm with which you want to solve all problems or one of then   
    You can create a CSV files with the solutions of all problems for each algorithm separately or for all algorithms     
 
-Knapsack.exe          This the main solver with many features<br/>
-or_tools_dynamic.exe  Util that used by the main file to solve a problem using the OR-Tools Dynamic algorithm<br/>
-or_tools_integer.exe  Util that used by the main file to solve a problem using the OR-Tools Integer algorithm<br/>
-knapsack_gen.exe      Util that used by the main file to create a knapsack problem<br/>
+**Knapsack.exe**          This the main solver with many features<br/>
+**or_tools_dynamic.exe**  Util that used by the main file to solve a problem using the OR-Tools Dynamic algorithm<br/>
+**or_tools_integer.exe**  Util that used by the main file to solve a problem using the OR-Tools Integer algorithm<br/>
+**knapsack_gen.exe**      Util that used by the main file to create a knapsack problem<br/>
 
 All of these files has to be to the same folder<br/>
 
 ## Other folders:
 generator folder: <br/>
-    knapsack_gen.c      : Contains the code the knapsack generator (C++ code)<br/>
-    knapsackFilesCreator: This utils calls the knapsack generator to create 320 probles files (C++ code)<br/>
-    oneClickCreator     : MsDos batch file that call the knapsackFilesCreator (C++ code)<br/>
+    **knapsack_gen.c**      : Contains the code the knapsack generator (C++ code)<br/>
+    **knapsackFilesCreator**: This utils calls the knapsack generator to create 320 probles files (C++ code)<br/>
+    **oneClickCreator**     : MsDos batch file that call the knapsackFilesCreator (C++ code)<br/>
 
 ## Required hardware and software:
 CPU: 64bit<br/>
