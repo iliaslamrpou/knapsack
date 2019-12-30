@@ -33,7 +33,7 @@ All of these files has to be to the same folder<br/>
 ## Other folders:
 generator folder: <br/>
     **knapsack_gen.c**      : Contains the code the knapsack generator (C++ code)<br/>
-    **knapsackFilesCreator**: This utils calls the knapsack generator to create 320 probles files (C++ code)<br/>
+    **knapsackFilesCreator**: This utils calls the knapsack generator to create 320 problems files (C++ code)<br/>
     **oneClickCreator**     : MsDos batch file that call the knapsackFilesCreator (C++ code)<br/>
 
 ## Required hardware and software:
