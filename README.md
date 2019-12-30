@@ -1,5 +1,18 @@
 
-# Instructions:
+# Knapsack Solver
+This repository contains C++ code about the knapsack 0-1 problem
+The generator folder contains two very helpful tools to create one knapsack 0-1 problem or a pack of problems
+The problems can solved using 6 algorithms:
+   Greedy approach
+   Brute force
+   Branch and bound
+   Dynamic programming
+   Dynamic OR-Tools solver
+   Integer OR-Tools solver
+The solution of each problem is stored in a file
+The solution of pack of problem is stored in a CSV file for generating statistics
+
+## Instructions:
 1. Download this repository
 2. Run the file Knapsack.exe
 3. On the menu select the option 8:Create all knapsack problems (320 files)
@@ -22,13 +35,13 @@ generator folder:
     oneClickCreator     : MsDos batch file that call the knapsackFilesCreator (C++ code)
 
 //===================================
-# Required hardware and software:
+## Required hardware and software:
 CPU: 64bit
 Windows 64bit
 Ram: 10Gb
 
 //===================================
-# Licence: This code is created by Ilias Lamprou
+## Licence: This code is created by Ilias Lamprou
 You can use it for educational use
 For commercial use you have get the permission of the owner
 
