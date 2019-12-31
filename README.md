@@ -17,13 +17,13 @@ The solution of pack of problem is stored in a CSV file for generating statistic
 Web Page: (https://iliaslamrpou.github.io/knapsack)
 ## Instructions:
 1. Download this repository
-2. Run the file Knapsack.exe
-3. On the menu select the option 8:Create all knapsack problems (320 files)
+2. Run the file Knapsack.exe from the command line
+3. On the menu select the option (8) :Create all knapsack problems (320 files)
    This selection will create the folder knapsack_problems with 320 knapsack problems files  that can be solved using the Knapsack.exe
 4. On the menu select the algorithm with which you want to solve all problems or one of then   
    You can create a CSV files with the solutions of all problems for each algorithm separately or for all algorithms     
 
-**Knapsack.exe**          This the main solver with many features<br/>
+**Knapsack.exe**          This is the main executable file. Contains the solvers and many features<br/>
 **or_tools_dynamic.exe**  Util that used by the main file to solve a problem using the OR-Tools Dynamic algorithm<br/>
 **or_tools_integer.exe**  Util that used by the main file to solve a problem using the OR-Tools Integer algorithm<br/>
 **knapsack_gen.exe**      Util that used by the main file to create a knapsack problem<br/>
@@ -34,7 +34,7 @@ All of these files has to be to the same folder<br/>
 generator folder: <br/>
     **knapsack_gen.c**      : Contains the code the knapsack generator (C++ code)<br/>
     **knapsackFilesCreator**: This utils calls the knapsack generator to create 320 problems files (C++ code)<br/>
-    **oneClickCreator**     : MsDos batch file that call the knapsackFilesCreator (C++ code)<br/>
+    **oneClickCreator**     : MsDos batch file that call the knapsackFilesCreator to create all the necessary knapsack problems <br/>
 
 ## Required hardware and software:
 CPU: 64bit<br/>
@@ -43,7 +43,7 @@ Ram: 4Gb<br/>
 
 ## Licence: This code is created by Ilias Lamprou
 You can use it for educational use<br/>
-For commercial use you have get the permission of the owner<br/>
+Contuct us for commercial use<br/>
 
 `Dec 30 2019`
 
