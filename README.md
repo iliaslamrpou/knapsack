@@ -1,7 +1,9 @@
 
 # Knapsack Solver
-This repository contains C++ code about the knapsack 0-1 problem <br/>
-The generator folder contains two very helpful tools to create one knapsack 0-1 problem or a pack of problems<br/>
+This repository contains tools and solvers about the knapsack 0-1 problem <br/>
+For all the tools the C++ code is included on the repository<br/>
+
+The ***generator folder*** contains two very helpful tools to create one knapsack 0-1 problem or a pack of problems<br/>
 The problems can solved using 6 algorithms: <br/>
 
 - **Greedy approach**<br/>
@@ -15,6 +17,7 @@ The solution of each problem is stored in a file<br/>
 The solution of pack of problem is stored in a CSV file for generating statistics<br/>
 
 Web Page: (https://iliaslamrpou.github.io/knapsack)
+
 ## Instructions:
 1. Download this repository
 2. Run the file Knapsack.exe from the command line
@@ -45,6 +48,6 @@ Ram: 4Gb<br/>
 You can use it for educational use<br/>
 Contuct us for commercial use<br/>
 
-`Dec 30 2019`
+`Dec 31 2019`
 
 
